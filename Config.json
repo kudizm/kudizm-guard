@@ -1,0 +1,18 @@
+{
+  "OwnerID":"816599041311899669", 
+  "Prefix":".", 
+  "Token":"ODYyMzA0OTM4NTMzNDUzODI0.YOWaDg.AZFW-yORh7enZthnF05hPHrU9CE", 
+  "Status": "Rox 💗 Kudi",
+  "guildID":"853950948488904705", 
+  "logChannelID":"862327613850255421", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["546254410611687425", "307858452594819073", "490188424586854400","","","","",""], 
+  "boosterRole":"853951061961867312", 
+  "jailRole":"862102294387359744" 
+}
